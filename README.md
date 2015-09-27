@@ -19,5 +19,5 @@ These WeakAuras are intended for the following conditions:
 # Notes
 
 ### Warrior
-* Tracks Rend duration and glows at optimal refresh time.
-* Enrage is in here, but Arms doesn't even have it anymore. Derp.
+* Tracks Rend duration and glows at optimal refresh time to make sure you don't miss it, damnit. (5 seconds remaining).
+* Interchangeable Bloodbath and Bladestorm duration trackers.
